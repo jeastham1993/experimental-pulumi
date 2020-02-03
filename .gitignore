@@ -4097,3 +4097,4 @@ src/libraries/ICS.Referral.Domain/bin/release/netstandard2.1/ICS.Referral.Domain
 .vs/referral-api/DesignTimeBuild/.dtbcache
 .vs/referral-api/v16/Server/sqlite3/storage.ide
 src/tests/ICS.Referral.UnitTest/obj/Debug/netcoreapp3.1/ICS.Referral.UnitTest.assets.cache
+/.vs/experimental-pulumi/v16
